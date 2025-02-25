@@ -5,6 +5,8 @@ A simple web-based tool that allows users to:
 2. Ask questions about the content from those URLs
 3. Get accurate answers based solely on the ingested information
 
+## Demo
+live demo: [Web-QA](https://web-app-bqfaqtw2tjgmbn6kzzrzk7.streamlit.app/)
 
 ## Features
 
